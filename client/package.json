@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-sample-projects",
+  "version": "1.0.0",
+  "description": "RabbitMq JS Client Projects",
+  "dependencies": {
+    "amqplib": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+ 	"start": "node tasks/worker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Taw",
+  "license": "ISC"
+}
